@@ -50,7 +50,7 @@ body {
 }
 
 .text-input {
-  width: 60rem;
+  width: 50%;
   height: 15rem;
   padding: 1rem 2rem;
   font-size: 1.6rem;
@@ -76,7 +76,7 @@ body {
   font-weight: 500;
   padding: 1rem;
   height: 12rem;
-  width: 48rem;
+  width: 40%;
   display: inline-block;
   margin-bottom: 3rem;
   text-align: left;
