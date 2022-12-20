@@ -9,7 +9,7 @@ function getTranslationURL(input) {
 }
 
 function errorHandler() {
-  alert(`Server Error! Please try again in sometime`);
+  textOutput.innerText = `Server Error! Please try again in sometime`;
 }
 function clickHandler() {
   const textTyped = textInput.value;
